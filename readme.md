@@ -2,3 +2,5 @@
  * [크롬 드라이버 다운로드](https://sites.google.com/a/chromium.org/chromedriver/downloads)
  * [Selenium with Python](https://selenium-python.readthedocs.io/)  
  * [ChromeOptions](https://sites.google.com/a/chromium.org/chromedriver/capabilities)
+* [JPype1](https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpye)
+

@@ -4,3 +4,4 @@
 * [ChromeOptions](https://sites.google.com/a/chromium.org/chromedriver/capabilities)
 * [JPype1](https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpye)
 * [matplotlib](https://matplotlib.org/)
+* [nltk](https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/index.xml)

@@ -1,5 +1,5 @@
-* [파이썬 참조 문서] (https://docs.python.org/3.6/)
-* [HTML 참조 문서] (https://www.w3schools.com/html/)
+* [파이썬 참조 문서](https://docs.python.org/3.6/)
+* [HTML 참조 문서](https://www.w3schools.com/html/)
 * [DOM 구조](https://developer.mozilla.org/ko/docs/Web/API/Document_Object_Model/%EC%86%8C%EA%B0%9C)
 * [requests](https://2.python-requests.org//en/master/)
 

@@ -1,8 +1,8 @@
-* [파이썬 참조 문서](https://www.w3schools.com/python/default.asp)
-* [HTML 참조 문서](https://www.w3schools.com/html/)
+* [파이썬](https://www.w3schools.com/python/default.asp)
+* [HTML](https://www.w3schools.com/html/)
 * [DOM 구조](https://developer.mozilla.org/ko/docs/Web/API/Document_Object_Model/%EC%86%8C%EA%B0%9C)
 * [requests](https://2.python-requests.org//en/master/)
-
+==
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [크롬 드라이버 다운로드](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 * [Selenium with Python](https://selenium-python.readthedocs.io/)  
@@ -14,7 +14,8 @@
 
 * [JPype1](https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpye)
 * [KoNLPy: 파이썬 한국어 NLP](https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/)
-
+* [WordCloud](http://amueller.github.io/word_cloud/)  
+===
 * [matplotlib](https://matplotlib.org/)
 * [nltk](https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/index.xml)
 

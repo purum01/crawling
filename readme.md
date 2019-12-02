@@ -17,7 +17,7 @@
 - [WordCloud](http://amueller.github.io/word_cloud/)  
 
 - [matplotlib](https://matplotlib.org/)
-- [nltk](https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/index.xml)
+- [NLTK 자연어 처리 패키지](https://datascienceschool.net/view-notebook/118731eec74b4ad3bdd2f89bab077e1b/)
 
 - [scrapy](https://scrapy.org/)
 - [pillow](https://pillow.readthedocs.io/en/5.1.x/)

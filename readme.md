@@ -9,7 +9,9 @@
 * [pandas](https://pandas.pydata.org/pandas-docs/stable/)
 * [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
 
-* [ChromeOptions](https://sites.google.com/a/chromium.org/chromedriver/capabilities)
+* [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/capabilities)
+* [ChromeOptions](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.chrome.options)
+
 * [JPype1](https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpye)
 * [matplotlib](https://matplotlib.org/)
 * [nltk](https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/index.xml)

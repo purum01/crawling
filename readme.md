@@ -13,6 +13,8 @@
 * [ChromeOptions](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.chrome.options)
 
 * [JPype1](https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpye)
+* [KoNLPy: 파이썬 한국어 NLP](https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/)
+
 * [matplotlib](https://matplotlib.org/)
 * [nltk](https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/index.xml)
 

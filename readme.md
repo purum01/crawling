@@ -1,3 +1,4 @@
+- [웹 크롤러 - 위키백과](https://ko.wikipedia.org/wiki/%EC%9B%B9_%ED%81%AC%EB%A1%A4%EB%9F%AC)
 - [파이썬](https://www.w3schools.com/python/default.asp)
 - [HTML](https://www.w3schools.com/html/)
 - [DOM 구조](https://developer.mozilla.org/ko/docs/Web/API/Document_Object_Model/%EC%86%8C%EA%B0%9C)

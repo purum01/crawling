@@ -1,7 +1,8 @@
 - [웹 크롤러 - 위키백과](https://ko.wikipedia.org/wiki/%EC%9B%B9_%ED%81%AC%EB%A1%A4%EB%9F%AC)
 - [파이썬](https://www.w3schools.com/python/default.asp)
 - [HTML](https://www.w3schools.com/html/)
-- [DOM 구조](https://developer.mozilla.org/ko/docs/Web/API/Document_Object_Model/%EC%86%8C%EA%B0%9C)
+- [DOM 참조1](https://www.w3schools.com/js/js_htmldom.asp)
+- [DOM 참조2](https://developer.mozilla.org/ko/docs/Web/API/Document_Object_Model/%EC%86%8C%EA%B0%9C)
 - [requests](https://2.python-requests.org//en/master/)
 
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)

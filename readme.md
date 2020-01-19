@@ -19,6 +19,8 @@
 - [WordCloud](http://amueller.github.io/word_cloud/)  
 
 - [matplotlib](https://matplotlib.org/)
+- [시각화 패키지 Matplotlib ](https://datascienceschool.net/view-notebook/d0b1637803754bb083b5722c9f2209d0/)  
+
 - [NLTK 자연어 처리 패키지](https://datascienceschool.net/view-notebook/118731eec74b4ad3bdd2f89bab077e1b/)
 
 - [scrapy](https://scrapy.org/)

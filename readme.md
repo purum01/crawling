@@ -1,6 +1,6 @@
 ### 기본
-- [파이썬](https://www.w3schools.com/python/default.asp)
-- [HTML](https://www.w3schools.com/html/)
+- [파이썬 기본 문법](https://www.w3schools.com/python/default.asp)
+- [HTML 기본 문법](https://www.w3schools.com/html/)
 - [DOM 참조1](https://www.w3schools.com/js/js_htmldom.asp)
 - [DOM 참조2](https://developer.mozilla.org/ko/docs/Web/API/Document_Object_Model/%EC%86%8C%EA%B0%9C)
 

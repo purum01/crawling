@@ -16,7 +16,6 @@
 
 ### 크롬 드라이버
 - [크롬 드라이버 다운로드](https://sites.google.com/a/chromium.org/chromedriver/downloads)
-- [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/capabilities)
 - [ChromeOptions](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.chrome.options)
 
 

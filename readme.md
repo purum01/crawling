@@ -1,18 +1,30 @@
-- [웹 크롤러 - 위키백과](https://ko.wikipedia.org/wiki/%EC%9B%B9_%ED%81%AC%EB%A1%A4%EB%9F%AC)
+### 기본
 - [파이썬](https://www.w3schools.com/python/default.asp)
 - [HTML](https://www.w3schools.com/html/)
 - [DOM 참조1](https://www.w3schools.com/js/js_htmldom.asp)
 - [DOM 참조2](https://developer.mozilla.org/ko/docs/Web/API/Document_Object_Model/%EC%86%8C%EA%B0%9C)
+
+### 웹 접속
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [requests](https://2.python-requests.org//en/master/)
 
-- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- [크롬 드라이버 다운로드](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+### Selenium
 - [Selenium with Python](https://selenium-python.readthedocs.io/)  
+
+- [Action Chains](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.common.action_chains)
+- [Special Keys](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.common.keys)
+
+### 크롬 드라이버
+- [크롬 드라이버 다운로드](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+- [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/capabilities)
+- [ChromeOptions](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.chrome.options)
+
+
+### 기타
 - [pandas](https://pandas.pydata.org/pandas-docs/stable/)
 - [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
 
-- [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/capabilities)
-- [ChromeOptions](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.chrome.options)
+
 
 - [JPype1](https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpye)
 - [KoNLPy: 파이썬 한국어 NLP](https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/)

@@ -2,6 +2,7 @@
 - [파이썬 기본 문법](https://www.w3schools.com/python/default.asp)
 - [HTML 기본 문법](https://www.w3schools.com/html/)
 - [DOM 기본](https://www.w3schools.com/js/js_htmldom.asp)
+- [JavaScript](https://www.w3schools.com/js/default.asp)
 
 
 ### 웹 접속

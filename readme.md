@@ -1,3 +1,12 @@
+* [프로그램 언어 시장 점유율 - TIOBE](https://www.tiobe.com/tiobe-index/)
+* [파이썬 공식 사이트](https://www.python.org/)
+* [아니콘다 사이트](https://anaconda.org/)
+* [VSCode](https://code.visualstudio.com/)
+* [패키지 저장소](https://pypi.org/)
+* [파이썬 튜터](http://www.pythontutor.com/)
+
+
+
 ### Front End 기본 기술
 - [파이썬 기본](https://www.w3schools.com/python/default.asp)
 - [HTML 기본](https://www.w3schools.com/html/)

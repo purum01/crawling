@@ -24,6 +24,7 @@
 - [Special Keys](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.common.keys)
 
 ### 크롬 드라이버
+- [크롬 버젼 확인](chrome://version/)
 - [크롬 드라이버 다운로드](https://chromedriver.chromium.org/downloads)
 - [크롬 드라이버 다운로드_old](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 - [ChromeOptions](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.chrome.options)

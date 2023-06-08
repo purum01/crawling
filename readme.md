@@ -14,7 +14,8 @@
 
 
 ### 웹 접속
-- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.html)
+- [Beautiful Soup 한국어](https://www.crummy.com/software/BeautifulSoup/bs4/doc.ko/)
 - [requests](https://2.python-requests.org//en/master/)
 
 ### Selenium

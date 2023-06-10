@@ -34,6 +34,7 @@
 ### 파이썬 라이브러리
 - [pandas](https://pandas.pydata.org/pandas-docs/stable/)
 - [Pandas 요악](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+- [folium](https://python-visualization.github.io/folium/)
 - [matplotlib](https://matplotlib.org/stable/gallery/index.html)
 - [seaborn](https://seaborn.pydata.org/examples/index.html)
 - [openpyxl](https://openpyxl.readthedocs.io/en/stable/)

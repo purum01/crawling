@@ -24,11 +24,6 @@
 - [Special Keys](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.common.keys)
 - [셀레니엄 공식 문서](https://www.selenium.dev/documentation/)
 
-### 크롬 드라이버
-- 크롬 버젼 확인 ==>  chrome://version/
-- [크롬 드라이버 다운로드](https://chromedriver.chromium.org/downloads)
-- [크롬 드라이버 다운로드_old](https://sites.google.com/a/chromium.org/chromedriver/downloads)
-- [ChromeOptions](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.chrome.options)
 
 
 ### 파이썬 라이브러리

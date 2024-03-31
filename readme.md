@@ -20,9 +20,9 @@
 
 ### Selenium
 - [Selenium with Python](https://selenium-python.readthedocs.io/)  
-
 - [Action Chains](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.common.action_chains)
 - [Special Keys](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.common.keys)
+- [셀레니엄 공식 문서](https://www.selenium.dev/documentation/)
 
 ### 크롬 드라이버
 - 크롬 버젼 확인 ==>  chrome://version/

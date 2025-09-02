@@ -1,3 +1,4 @@
+# 학습 및 개발 자료
 | 개발 환경 구축 | Front End 기본 기술 | 웹 접속 | Selenium | 파이썬 라이브러리 |
 |---|---|---|---|---|
 | [파이썬 공식 사이트](https://www.python.org/) | [파이썬 기본](https://www.w3schools.com/python/default.asp) | [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.html) | [Selenium with Python](https://selenium-python.readthedocs.io/) | [datetime 서식문자](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes) |
@@ -6,7 +7,7 @@
 | [패키지 저장소](https://pypi.org/) | [JavaScript 기본](https://www.w3schools.com/js/default.asp) | - | [셀레니엄 공식 문서](https://www.selenium.dev/documentation/) | - |
 
 
-
+# 크롤링 사이트 
 | 제목 | URL |
 |------|-----|
 | 네이버증권 | https://finance.naver.com/ |

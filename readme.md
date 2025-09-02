@@ -1,3 +1,13 @@
+| 개발 환경 구축 | Front End 기본 기술 | 웹 접속 |
+|----------------|---------------------|---------|
+| [파이썬 공식 사이트](https://www.python.org/) | [파이썬 기본](https://www.w3schools.com/python/default.asp) | [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.html) |
+| [아니콘다 사이트](https://anaconda.org/) | [HTML 기본](https://www.w3schools.com/html/) | [Beautiful Soup 한국어](https://www.crummy.com/software/BeautifulSoup/bs4/doc.ko/) |
+| [VSCode](https://code.visualstudio.com/) | [DOM 기본](https://www.w3schools.com/js/js_htmldom.asp) | [requests](https://2.python-requests.org//en/master/) |
+| [패키지 저장소](https://pypi.org/) | [JavaScript 기본](https://www.w3schools.com/js/default.asp) | - |
+
+
+
+
 ### 개발 환경 구축
 * [파이썬 공식 사이트](https://www.python.org/)
 * [아니콘다 사이트](https://anaconda.org/)

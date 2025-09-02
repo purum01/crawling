@@ -1,5 +1,5 @@
 | 개발 환경 구축 | Front End 기본 기술 | 웹 접속 | Selenium |  
-|----------------|---------------------|---------|
+|----------------|---------------------|---------|---------|
 | [파이썬 공식 사이트](https://www.python.org/) | [파이썬 기본](https://www.w3schools.com/python/default.asp) | [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.html) | [Selenium with Python](https://selenium-python.readthedocs.io/) 
 | [아니콘다 사이트](https://anaconda.org/) | [HTML 기본](https://www.w3schools.com/html/) | [Beautiful Soup 한국어](https://www.crummy.com/software/BeautifulSoup/bs4/doc.ko/) |[Action Chains](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.common.action_chains)
 | [VSCode](https://code.visualstudio.com/) | [DOM 기본](https://www.w3schools.com/js/js_htmldom.asp) | [requests](https://2.python-requests.org//en/master/) |[Special Keys](https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.common.keys)

@@ -7,7 +7,7 @@
 | [패키지 저장소](https://pypi.org/) | [JavaScript 기본](https://www.w3schools.com/js/default.asp) | - | [셀레니엄 공식 문서](https://www.selenium.dev/documentation/) | - |
 
 
-# 크롤링 사이트 
+# 예제 사이트 
 | 제목 | URL |
 |------|-----|
 | 네이버증권 | https://finance.naver.com/ |
